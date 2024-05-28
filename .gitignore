@@ -1,3 +1,11 @@
+# ADICIONADOS
+_datasets*/
+Documentos/
+.imgs/
+*.html
+
+
+
 # History files
 .Rhistory
 .Rapp.history
